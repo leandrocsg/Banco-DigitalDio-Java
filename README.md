@@ -5,6 +5,7 @@ Criado no Bootcamp "GFT Start #5 Java", na Digital Innovation One.
 Foi um criado um *"simulador de Banco"*, com operações de **depositar**, **sacar** e **transferir**. 
 
 ### 📚 Conceitos utilizados em OO:
+- Abstração
 - Encapsulamento
 - Herança
 - Polimorfismo
